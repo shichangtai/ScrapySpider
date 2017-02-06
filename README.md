@@ -10,9 +10,10 @@ __douban__:</br>
 scrapy crawl douban -a movie_index=_电影编号_</br>
 则运行影评抓取模式 [电影名称/用户/打分/评分时间/评价内容]
 ![](screenshots/review.png)
-![img](https://raw.githubusercontent.com/shichangtai/Scrapy-Spider/master/screenshots/top250.png)
+![](screenshots/top250.png)
 
 __SinaSpider__:</br>
 新浪微博数据 [微博名/微博内容/赞/转发/评论/日期与地点]
-![img](https://raw.githubusercontent.com/shichangtai/Scrapy-Spider/master/screenshots/sina.png)
+![](screenshots/sina.png)
+
 
